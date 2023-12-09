@@ -1,0 +1,49 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Day7",
+      "request": "launch",
+      "mainClass": "Day7",
+      "console": "externalTerminal",
+
+      "projectName": "advent2023_b21042bf"
+    },
+    {
+      "type": "java",
+      "name": "Day4",
+      "request": "launch",
+      "mainClass": "Day4",
+      "console": "externalTerminal",
+      "projectName": "advent2023_b21042bf"
+    },
+    {
+      "type": "java",
+      "name": "Day3",
+      "request": "launch",
+      "mainClass": "Day3",
+      "console": "externalTerminal",
+      "projectName": "advent2023_b21042bf"
+    },
+    {
+      "type": "java",
+      "name": "Teste",
+      "request": "launch",
+      "mainClass": "Teste",
+      "console": "externalTerminal",
+      "projectName": "advent2023_b21042bf"
+    },
+    {
+      "name": "Java Launch",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "${file}",
+      "args": [],
+      "console": "externalTerminal",
+      "stopOnEntry": false,
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "compile"
+    }
+  ]
+}
